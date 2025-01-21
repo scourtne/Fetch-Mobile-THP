@@ -19,6 +19,9 @@
 /* Begin PBXFileReference section */
 		DA80D08A2D39A91C002C6E85 /* FetchTakeHomeProject.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = FetchTakeHomeProject.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		DA80D09A2D39A926002C6E85 /* FetchTakeHomeProjectTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = FetchTakeHomeProjectTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		DA8358752D40084100D42CFB /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
+		DA8358762D40084E00D42CFB /* Preview.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = Preview.gif; sourceTree = "<group>"; };
+		DA8358772D40084E00D42CFB /* Test Coverage.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Test Coverage.png"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFileSystemSynchronizedRootGroup section */
@@ -58,6 +61,8 @@
 				DA80D08C2D39A91C002C6E85 /* FetchTakeHomeProject */,
 				DA80D09D2D39A926002C6E85 /* FetchTakeHomeProjectTests */,
 				DA80D08B2D39A91C002C6E85 /* Products */,
+				DA8358752D40084100D42CFB /* README.md */,
+				DA8358782D40084E00D42CFB /* Readme Contents */,
 			);
 			sourceTree = "<group>";
 		};
@@ -68,6 +73,15 @@
 				DA80D09A2D39A926002C6E85 /* FetchTakeHomeProjectTests.xctest */,
 			);
 			name = Products;
+			sourceTree = "<group>";
+		};
+		DA8358782D40084E00D42CFB /* Readme Contents */ = {
+			isa = PBXGroup;
+			children = (
+				DA8358762D40084E00D42CFB /* Preview.gif */,
+				DA8358772D40084E00D42CFB /* Test Coverage.png */,
+			);
+			path = "Readme Contents";
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
