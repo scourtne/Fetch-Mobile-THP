@@ -2,11 +2,11 @@
 
 Implementation of the [Fetch Mobile Take Home Project](https://d3jbb8n5wk0qxi.cloudfront.net/take-home-project.html)
 
-![Preview Video](/Readme Contents/preview.gif?raw=true
+![Preview Video](./Readme%20Contents/Preview.gif?raw=true)
 
 Test Coverage: 
 
-![Test coverage screenshot](/Readme Contents/Test Coverage.png?raw=true "Test coverage screenshot")
+![Test coverage screenshot](./Readme%20Contents/Test%20Coverage.png?raw=true "Test coverage screenshot")
 
 ### Focus Areas: What specific areas of the project did you prioritize? Why did you choose to focus on these areas?
 
