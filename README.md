@@ -16,11 +16,14 @@ I spent less time on the API and associated models, as that's an area I'm very c
 
 ### Time Spent: Approximately how long did you spend working on this project? How did you allocate your time?
 
+About a total of six hours over several days.
+
 - API/Models: 30 minutes
 - UI: 2 hours
 - Images: 1 hour
-- Unit Tests:
+- Unit Tests: 1 hour
 - Readme: 45 min
+- Design: 1 hour
 
 ### Trade-offs and Decisions: Did you make any significant trade-offs in your approach?
 
